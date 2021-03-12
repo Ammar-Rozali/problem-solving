@@ -18,7 +18,6 @@ if old_size[0] < new_size[0]:
     width = round((new_size[0] - old_size[0]) / 2)
 else:
     print('original image more width')
-
     width = 0
 
 if old_size[1] < new_size[1]:
