@@ -22,3 +22,9 @@ Identify the image size using OpenCV-Python and Pillow library
 **CntNonWhitePixel.py**
 
 Identity all the non white pixels below 250 value 
+
+
+**grayscala.py**
+
+Change image to gray
+
