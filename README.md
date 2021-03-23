@@ -15,6 +15,10 @@ List duplicate of technique:
 - random noise
 - horizontal flip
 
-**image size detail**
+**images_size_details.py**
 
 Identify the image size using OpenCV-Python and Pillow library 
+
+**CntNonWhitePixel.py**
+
+Identity all the non white pixels below 250 value 
